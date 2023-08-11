@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @qmfvkn
-- 👀 I’m interested in GameCording
+- 👋 Hi, I’m @ChocoTime
+- 👀 I’m interested in Game programming
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
